@@ -6,6 +6,18 @@
 ********************************************/
 
 html,
+
+h1 {
+	font-family: arial;
+	color: #ffffff;
+	text-align: center;
+	font-size: 4em;
+}
+
+/***************
+
+***************/
+
 body {
 	font-family: sans-serif;
 	margin: 0;
