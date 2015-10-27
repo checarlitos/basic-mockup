@@ -12,17 +12,10 @@ h1 {
 	text-align: center;
 }
 
-p {
-	 color: #000000;
-}
-
 .float-center {
 			float-right: right;
 }
 
-.clearfix {
-	display: inline-block;
-}
 /***************
 
 ***************/
