@@ -9,11 +9,18 @@ html,
 
 h1 {
 	font-family: arial;
-	color: #ffffff;
+	color: #000000;
 	text-align: center;
 	font-size: 4em;
 }
 
+.float-center {
+			float-right: right;
+}
+
+.clearfix {
+	display: inline-block;
+}
 /***************
 
 ***************/
