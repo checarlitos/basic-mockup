@@ -44,6 +44,11 @@ body {
 
 
 .container {
+	 margin: 0 auto;
+	 width: 1170px;
+ }
+
+.container1 {
 	color: aqua;
 	margin: 0 auto;
 	width: 1170px;
