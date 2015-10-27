@@ -12,25 +12,52 @@ h1 {
 	text-align: center;
 }
 
+
+
+
+
 .float-center {
 			float-right: right;
 }
 
 
+
+
+
+
+.flt-right{
+	float:right;
+}
+
+
+
+
 body {
-	background-image: url("star-trek-cat.jpg");
+	background-image: ("star-trek-cat.jpg");
 	background-repeat: no-repeat;
 	font-family: arial;
 }
+
+
+
+
 
 .container {
 	margin: 0 auto;
 	width: 1170px;
 }
 
+
+
+
 .clear {
 	clear: both;
 }
+
+
+
+
+
 
 /***
 * Flexbox Sticky Footer
