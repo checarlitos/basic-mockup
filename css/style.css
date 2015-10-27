@@ -19,8 +19,9 @@ h1 {
 ***************/
 
 body {
-	font-family: sans-serif;
-	margin: 0;
+	background-image: url("img/");
+	background-repeat: no-repeat;
+	font-family: arial;
 }
 
 .container {
