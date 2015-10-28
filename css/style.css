@@ -28,7 +28,7 @@ h1 {
 
 
 .backgrn {
-	background-image: url("img/star-trek-cat.jpg");
+	background-image: ("/img/star-trek-cat.jpg");
 }
 
 
