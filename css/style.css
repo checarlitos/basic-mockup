@@ -28,8 +28,10 @@ h1 {
 
 
 body {
-	background-image: url("../img/star-trek-cat.jpg") no-repeat center center fixed;
+	background-image: url("../img/star-trek-cat.jpg");
 	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
 	font-family: arial;
 }
 
