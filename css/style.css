@@ -27,7 +27,9 @@ h1 {
 }
 
 
-
+.backgrn {
+	background-image: url("img/star-trek-cat.jpg");
+}
 
 
 
@@ -37,13 +39,6 @@ h1 {
 
 
 
-
-body {
-	background-image: url("img/star-trek-cat.jpg");
-	background-color: transparent;
-	background-repeat: no-repeat;
-}
-
 .instructions {
 	box-sizing: content-box;
 	border: 5px;
@@ -52,6 +47,10 @@ body {
 
 .pull-right {
 	float:right;
+}
+
+.pull-left {
+	float:left;
 }
 
 
