@@ -8,7 +8,7 @@
 
 h1 {
 	font-family: arial;
-	color: #000000;
+	color: #FFFFFF;
 	text-align: center;
 }
 
@@ -36,7 +36,6 @@ body {
 	background-image: url("star-trek-cat.jpg");
 	background-color: transparent;
 	background-repeat: no-repeat;
-	font-family: arial;
 }
 
 
@@ -48,7 +47,7 @@ body {
 	 width: 1170px;
  }
 
-.containerb {
+.container1 {
 	background-color: #000000;
  }
 
