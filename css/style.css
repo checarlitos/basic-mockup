@@ -10,6 +10,8 @@ h1 {
 	font-family: arial;
 	color: #FFFFFF;
 	text-align: center;
+	animation-duration: 3s;
+	animation-name: slidein;
 }
 
 
