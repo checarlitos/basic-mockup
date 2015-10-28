@@ -30,6 +30,7 @@ h1 {
 body {
 	background-image: url("../img/star-trek-cat.jpg");
 	background-size: 1000px;
+	background-repeat: no-repeat;
 	font-family: arial;
 }
 
