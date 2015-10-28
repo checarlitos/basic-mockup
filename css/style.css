@@ -14,7 +14,6 @@ h1 {
 	animation-name: slidein;
 }
 
-
 @keyframes slidein {
 	from {
 		margin-left: 100%;
@@ -34,9 +33,6 @@ h1 {
 
 
 
-
-
-
 .flt-right{
 	float:right;
 }
@@ -45,13 +41,15 @@ h1 {
 
 
 body {
-	background: url(img/star-trek-cat.jpg) no-repeat center center fixed;
+	background-image: url("img/star-trek-cat.jpg");
 	background-color: transparent;
 	background-repeat: no-repeat;
 }
 
 
-
+.pull-right {
+	float:right;
+}
 
 
 .container {
