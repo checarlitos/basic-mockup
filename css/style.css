@@ -44,6 +44,11 @@ body {
 	background-repeat: no-repeat;
 }
 
+.instructions {
+	box-sizing: content-box;
+	border: 5px;
+}
+
 
 .pull-right {
 	float:right;
