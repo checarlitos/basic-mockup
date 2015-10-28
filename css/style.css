@@ -29,10 +29,11 @@ h1 {
 
 body {
 	background-image: url("../img/star-trek-cat.jpg");
+	opacity: 0.4;
 	background-size: 1000px;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-color: transparent;
+	background-color: darkgray;
 	font-family: arial;
 }
 
