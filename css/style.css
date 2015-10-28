@@ -27,8 +27,10 @@ h1 {
 }
 
 
-.backgrn {
-	background-image: ("/img/star-trek-cat.jpg");
+body {
+	background-image: url("star-trek-cat.jpg");
+	background-repeat: no-repeat;
+	font-family: arial;
 }
 
 
