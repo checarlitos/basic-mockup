@@ -45,7 +45,7 @@ h1 {
 
 
 body {
-	background-image: url("img/star-trek-cat.jpg");
+	background: url(img/star-trek-cat.jpg) no-repeat center center fixed;
 	background-color: transparent;
 	background-repeat: no-repeat;
 }
