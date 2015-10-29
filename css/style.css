@@ -5,6 +5,11 @@
 * Edit and add CSS rules as you see fit! :D
 ********************************************/
 
+header {
+	background-color: rgba(0,169,157,0.5);
+	color: #fff;
+	padding: 20px 0;
+}
 
 h1 {
 	font-family: arial;
@@ -70,7 +75,7 @@ body {
 	 width: 1170px;
  }
 
-.container1 {
+/** .container1 {
 	background-color: #000000;
 	padding: 5px;
  }
